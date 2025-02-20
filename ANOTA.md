@@ -42,7 +42,8 @@ Podemos utilizar os () para quebrar ou organizar uma operação.
 1. continue -> Significa continuar, basicamente se uma condição for favorável, ela será desconsiderada.
 2. break -> Significa quebrar, quando utilizado irá finalizar o loop mais próximo.
 
-
+## FUNÇÕES
+=> é um bloco de código que é reutilizável. Serve para deixar o código mais organizado e eficiente. `Executam uma tarefa específica.`
 
 
 
